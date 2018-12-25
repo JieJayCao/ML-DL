@@ -1,0 +1,6 @@
+
+import tensorflow as tf
+
+graph= tf.train.import_meta_graph("mnist_model-29001.meta")
+
+ummary_write = tf.summary.FileWriter("model_board", graph)
