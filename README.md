@@ -1,6 +1,6 @@
 # ML-DL
 ## My notebooks in university about machine learning and deep learning.
-### SVM: The project of the lab built by 360 enterprise security group.
+### SVM: (The project of the lab built by 360 enterprise security group.)[https://github.com/JieJayCao/ML-DL/tree/master/SVM%E6%94%B9%E8%BF%9B%E7%89%88]
 SVM改进版 achieves the goal of mixing the process of traning and distinguishing. The SVM.py can train the model and adjust the parameter at the same time.
 Time: 2018.4~6
 ### Nerual network: MNIST handwriting recogntion.
